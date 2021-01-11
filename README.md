@@ -29,6 +29,10 @@ make
 ./debug.sh
 ```
 
+## Reference
+
+- [lsっぽいコマンドを作る](https://www.mm2d.net/main/prog/linux/ls-01.html)
+
 ## Author
 
 [twitter](https://twitter.com/Kotabrog)
