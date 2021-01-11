@@ -1,6 +1,6 @@
 # mini_ls
 
-![gif](https://github.com/kotabrog/ft_mini_ls/image/ft_mini_ls.gif)
+![gif](https://github.com/kotabrog/ft_mini_ls/blob/main/image/ft_mini_ls.gif)
 
 ## Overview
 
